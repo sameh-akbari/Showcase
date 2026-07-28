@@ -5,5 +5,5 @@
 -OnlineAcademy:                      https://github.com/sameh-akbari/onlineAcademy
 
 
-## 🧩 My Samples:
+## 🧩 Code Samples:
 -useContexSample:                    -https://github.com/sameh-akbari/useContextSample-react
